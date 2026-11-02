@@ -36,5 +36,5 @@ A data analytics project built in Tableau, based on a global electric vehicle (E
 - Tableau (Desktop / Tableau Public)
 
 ## Live dashboard
+https://public.tableau.com/app/profile/khushi.singh4017/viz/Book1_17934708282000/Dashboard1
 
-https://public.tableau.com/app/profile/khushi.singh4017/viz/Book1_17934708282000/Story1
